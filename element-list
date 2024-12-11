@@ -1,0 +1,8 @@
+edu.ntnu.idi.bidata.application
+edu.ntnu.idi.bidata.entity
+edu.ntnu.idi.bidata.menu
+edu.ntnu.idi.bidata.menu.cookbook
+edu.ntnu.idi.bidata.menu.grocery
+edu.ntnu.idi.bidata.recipe
+edu.ntnu.idi.bidata.register
+edu.ntnu.idi.bidata.util
